@@ -1,0 +1,7 @@
+Enter the first number: 6
+Enter the second number: 25
+Enter the third number: 45
+Choose an operation (+, -, *, /): +
+Result: 76.0
+
+Process finished with exit code 0
